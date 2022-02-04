@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Aggregation">
+    <Position X="1.389" Y="4.151" Height="0.475" Width="1.058" />
+  </Comment>
+  <Comment CommentText="Aggregation">
+    <Position X="6.817" Y="3.849" Height="0.342" Width="0.975" />
+  </Comment>
+  <Comment CommentText="Aggregation">
+    <Position X="3.9" Y="7.108" Height="0.55" Width="1.317" />
+  </Comment>
+  <Class Name="prjWinCsRemaxAdminApp.clsCompany">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAEAAAAACAAAAAAQAAgAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>clsCompany.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="clsListHouse" />
+      <Property Name="clsListClient" />
+      <Property Name="clsListEmployee" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="prjWinCsRemaxAdminApp.clsListHouse">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQAQAAAAEIAAAAAAAQCAEAAAA=</HashCode>
+      <FileName>Houses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxAdminApp.clsHouse">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAIAEAAAIAAAAAAAABAAAAEAAAAQAAAAAAAAI=</HashCode>
+      <FileName>House.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxAdminApp.clsListClient">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQAQAAAAEIAAAAAAAQCAEAAAA=</HashCode>
+      <FileName>clsListClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxAdminApp.clsAgent">
+    <Position X="5.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAkACACAAAAAEAQAJAAAIAAAY=</HashCode>
+      <FileName>Agent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxAdminApp.clsbuyer">
+    <Position X="5.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>buyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxAdminApp.clsSeller">
+    <Position X="7.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsSeller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxAdminApp.clsListEmployee">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsListAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxAdminApp.clsClient">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQEAQAAAkABAAAAAEAAAAAAAAAEAAAQAgAAAAAAAA=</HashCode>
+      <FileName>clsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxAdminApp.clsEmployee">
+    <Position X="3.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAIAAAAAAECwAAABAAAAGAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxAdminApp.clsAdmin">
+    <Position X="2" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAQAEAAAAAAAAAQAAAAAQAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>clsAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

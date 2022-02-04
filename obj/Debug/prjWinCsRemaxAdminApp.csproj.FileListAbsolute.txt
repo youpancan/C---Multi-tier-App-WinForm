@@ -1,0 +1,13 @@
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\obj\Debug\prjWinCsRemaxAdminApp.csproj.AssemblyReference.cache
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\obj\Debug\prjWinCsRemaxAdminApp.Properties.Resources.resources
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\obj\Debug\prjWinCsRemaxAdminApp.csproj.GenerateResource.cache
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\obj\Debug\prjWinCsRemaxAdminApp.csproj.CoreCompileInputs.cache
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\obj\Debug\prjWinCsRemaxAdminApp.frmLogin.resources
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\bin\Debug\prjWinCsRemaxAdminApp.exe.config
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\bin\Debug\prjWinCsRemaxAdminApp.exe
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\bin\Debug\prjWinCsRemaxAdminApp.pdb
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\obj\Debug\prjWinCsRemaxAdminApp.exe
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\obj\Debug\prjWinCsRemaxAdminApp.pdb
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\bin\Debug\Remax.mdb
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\obj\Debug\prjWinCsRemaxAdminApp.frmAgent.resources
+C:\Users\sunny\source\repos\420-DA3-AS\prjWinCsRemaxAdminApp\obj\Debug\prjWinCsRemaxAdminApp.frmAdmin.resources
